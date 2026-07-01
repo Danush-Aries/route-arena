@@ -1,0 +1,66 @@
+{
+  "quality": {
+    "claude-haiku": {
+      "code": 1344.0,
+      "extraction": 1560.6,
+      "reasoning": 1527.2,
+      "summarization": 1349.7
+    },
+    "claude-sonnet": {
+      "code": 1541.2,
+      "extraction": 1554.3,
+      "reasoning": 1600.0,
+      "summarization": 1535.6
+    },
+    "gpt-4o": {
+      "code": 1430.0,
+      "extraction": 1600.0,
+      "reasoning": 1600.0,
+      "summarization": 1460.3
+    },
+    "gpt-4o-mini": {
+      "code": 1344.3,
+      "extraction": 1560.6,
+      "reasoning": 1467.8,
+      "summarization": 1380.4
+    },
+    "llama-3-70b": {
+      "code": 1380.6,
+      "extraction": 1560.6,
+      "reasoning": 1393.1,
+      "summarization": 1359.7
+    }
+  },
+  "raw_scores": {
+    "claude-haiku": {
+      "code": 0.5733,
+      "extraction": 0.9343,
+      "reasoning": 0.8787,
+      "summarization": 0.5828
+    },
+    "claude-sonnet": {
+      "code": 0.902,
+      "extraction": 0.9238,
+      "reasoning": 1.0,
+      "summarization": 0.8927
+    },
+    "gpt-4o": {
+      "code": 0.7167,
+      "extraction": 1.0,
+      "reasoning": 1.0,
+      "summarization": 0.7671
+    },
+    "gpt-4o-mini": {
+      "code": 0.5738,
+      "extraction": 0.9343,
+      "reasoning": 0.7796,
+      "summarization": 0.6339
+    },
+    "llama-3-70b": {
+      "code": 0.6343,
+      "extraction": 0.9343,
+      "reasoning": 0.6551,
+      "summarization": 0.5995
+    }
+  }
+}

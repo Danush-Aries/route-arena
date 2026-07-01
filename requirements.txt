@@ -1,0 +1,12 @@
+# route-arena core has NO required runtime dependencies.
+# The optional extras below unlock pretty output and live provider calls.
+#
+#   pip install -e .            # core only (mock mode, zero deps)
+#   pip install -e ".[pretty]"  # rich terminal tables
+#   pip install -e ".[dev]"     # pytest + rich for development
+#
+# Pinned-range optional deps (installed only if you want them):
+rich>=13.0        # pretty terminal output (optional)
+pytest>=7.0       # test runner (dev only)
+# openai>=1.0     # uncomment for live OpenAI models
+# anthropic>=0.30 # uncomment for live Anthropic models
